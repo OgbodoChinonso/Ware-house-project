@@ -27,3 +27,4 @@ p1.addStock(10);
 p1.removeStock(3);
 
 console.log(`Total product types in system: ${Product.totalProductsCreated}`);
+
